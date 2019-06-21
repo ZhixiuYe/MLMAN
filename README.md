@@ -39,5 +39,5 @@ MLMAN
 3. train model
 
 ```
-CUDA_VISIBLE_DEVICES=0 python train.py --N_for_train 20 --N_for_test 5 --K 1 --Q 5 --batch 1
+CUDA_VISIBLE_DEVICES=0 python train_demo.py --N_for_train 20 --N_for_test 5 --K 1 --Q 5 --batch 1
 ```
